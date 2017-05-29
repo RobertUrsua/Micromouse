@@ -4,6 +4,9 @@ This repository contains the code for the maze-solving mouse robot that I used t
 
 The program is separated into various modules, some are self explanatory (Motor.cpp, IRSensor.cpp, Etc...)
 
+# Dependencies
+- QEI Library (for quadrature encoders). Just google mbed QEI and the most popular result is what I used.
+
 I will expand more about the program when I have the time
 
 ### THIS IS THE SPAGHETTI CODE VERSION THAT I WORKED ON FOR 26 HOURS BEFORE THE COMPETITION
