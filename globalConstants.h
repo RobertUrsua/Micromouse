@@ -72,6 +72,6 @@
 
 template <class myType>
 myType abs (myType a) {
-    eturn (a>0?a:-a);
+    return (a>0?a:-a);
 }
 #endif
